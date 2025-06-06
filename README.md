@@ -55,7 +55,6 @@ Tested on 2 years of historical BTC-USD data using daily candles:
 | **Average Win**     | $305.01         |
 | **Largest Win**     | $920.12         |
 | **Average Loss**    | $534.83         |
-| **Sharpe Ratio**    | -0.57           |
 | **Max Drawdown**    | 24.46%          |
 
 📌 **Note**:  
