@@ -1,6 +1,6 @@
-# High Win Rate Crypto Trading Strategy (Backtrader)
+# Crypto Trading Strategy (Backtrader)
 
-This repository contains a **Python-based backtesting strategy** for trading **Bitcoin (BTC-USD)** using [Backtrader](https://www.backtrader.com/). The strategy is engineered with a primary focus on **maximizing win rate** over raw profit, making it more consistent and conservative for risk-aware traders.
+This repository contains a **Python-based backtesting strategy** for trading **Bitcoin (BTC-USD)** using [Backtrader](https://www.backtrader.com/). 
 
 ---
 
